@@ -1,5 +1,26 @@
+# Simulation Files
+
 *.vcd
 *.out
 *.log
-*.swp
+
+# macOS Files
+
 .DS_Store
+
+# Vim Files
+
+*.swp
+
+# Temporary Files
+
+*.tmp
+
+# Backup Files
+
+*~
+
+# Icarus Verilog Output
+
+processor_sim
+a.out
